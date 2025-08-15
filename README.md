@@ -17,7 +17,7 @@
 ## 📝 Assignments
 
 ### 1️⃣ Assignment 1
-- **📂 Folder:** [Assignment1](/Assignment-1 (Lavanya-102303425))  
+- **📂 Folder:** [Assignment1](Assignment-1 (Lavanya-102303425))  
 - **🖌️ Description:** Landing page design with responsive navigation and hero section.  
 - **🌐 Live Preview:** [Open Assignment 1](https://your-username.github.io/UIUX-Assignments/Assignment1/index.html)
 
