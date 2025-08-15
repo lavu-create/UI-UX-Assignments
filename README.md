@@ -1,8 +1,8 @@
 # 🎨 UI/UX Assignments Repository
 
-**👩‍🎓 Student:** Lavanya  
+**👩‍🎓 Student:** Lavanya (Roll no: 102303425)
 **📚 Course:** UI/UX / Web Development  
-**🗓️ Year/Semester:** 2025 / Semester X  
+**🗓️ Year/Semester:** 2025 / 5th Semester
 
 ---
 
