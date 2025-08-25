@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact - College Fest 2025</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!-- Banner Section -->
+ <section class="hero-contact">
+    <div class="hero-content-contact">
+        <h1>Contact & FAQs</h1>
+        <p>Have questions? We’re here to help.</p>
+    </div>
+ </section>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="events.html">Events</a>
+  <a href="schedule.html">Schedule</a>
+  <a href="register.html">Register</a>
+  <a href="gallery.html">Gallery</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+  <h2>Contact Us</h2>
+  <p>Email: <a href="mailto:collegefest2025@example.com">collegefest2025@example.com</a></p>
+  <p>Phone: +91 9876543210</p>
+  <p>Follow us on 
+    <a href="#">Facebook</a> | 
+    <a href="#">Instagram</a> | 
+    <a href="#">Twitter</a>
+  </p>
+
+  <h2>FAQs</h2>
+  <div class="faq-item">
+    <h4>Who can participate?</h4>
+    <p>Students from any college can participate.</p>
+  </div>
+  <div class="faq-item">
+    <h4>Is there an entry fee?</h4>
+    <p>No, participation is free of cost.</p>
+  </div>
+  <div class="faq-item">
+    <h4>How to register?</h4>
+    <p>Simply fill out the form on the Register page.</p>
+  </div>
+</div>
+
+<script>
+  // Accordion effect for FAQs
+  document.querySelectorAll(".faq-item").forEach(item => {
+    item.addEventListener("click", () => {
+      item.classList.toggle("active");
+    });
+  });
+</script>
+
+<footer>&copy; 2025 College Fest. All Rights Reserved.</footer>
+</body>
+</html>
