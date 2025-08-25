@@ -26,6 +26,11 @@
 - **🖌️ Description:** Landing page design with responsive navigation and hero section.  
 - **🌐 Live Preview:** [Open Assignment-2](https://lavu-create.github.io/UI-UX-Assignments/Assignment-2-Lavanya-102303425/index.html)
 
+### 2️⃣ Assignment 3
+- **📂 Folder:** [Assignment-3](Assignment-3-Lavanya-102303425)  
+- **🖌️ Description:** Landing page design with responsive navigation and hero section.  
+- **🌐 Live Preview:** [Open Assignment-3](https://lavu-create.github.io/UI-UX-Assignments/Assignment-3-Lavanya-102303425/index.html)
+
 ---
 
 ## ℹ️ Notes
