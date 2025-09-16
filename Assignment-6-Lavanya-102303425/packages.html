@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dream Travel — Packages</title>
+  <link rel="stylesheet" href="style.css" />
+  <meta name="color-scheme" content="light dark" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="logo" href="index.html">DreamTravel</a>
+    <nav class="nav" aria-label="Primary">
+      <a class="nav-link" href="index.html">Home</a>
+      <a class="nav-link active" href="packages.html" aria-current="page">Packages</a>
+      <a class="nav-link" href="booking.html">Booking</a>
+      <a class="nav-link" href="gallery.html">Gallery</a>
+      <a class="nav-link" href="about.html">About Us</a>
+    </nav>
+  </header>
+
+  <section class="hero hero--sm" style="--hero:url('assets/packages-hero.png')">
+    <div class="hero__overlay"></div>
+    <div class="hero__content container">
+      <h1 class="hero__title">Curated tour packages</h1>
+      <p class="hero__subtitle">Compare duration, price & inclusions at a glance.</p>
+    </div>
+  </section>
+
+  <section class="section container">
+    <h2 class="section__title">Our Tour Packages</h2>
+    <div class="table-wrap" role="region" aria-label="Packages table" tabindex="0">
+      <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Destination</th>
+            <th scope="col">Duration</th>
+            <th scope="col">Price</th>
+            <th scope="col">Includes</th>
+            <th scope="col">Book</th>
+            <th scope="col">Final Price</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Paris, France</td>
+            <td>5 Days</td>
+            <td>$1200</td>
+            <td>Hotel, Breakfast, City Tour</td>
+            <td><a class="btn btn--table" href="booking.html?dest=Paris&pkg=Deluxe">Choose</a></td>
+          </tr>
+          <tr>
+            <td>Goa, India</td>
+            <td>3 Days</td>
+            <td>$400</td>
+            <td>Resort, Breakfast, Beach Activities</td>
+            <td><a class="btn btn--table" href="booking.html?dest=Goa&pkg=Standard">Choose</a></td>
+          </tr>
+          <tr>
+            <td>Bali, Indonesia</td>
+            <td>6 Days</td>
+            <td>$900</td>
+            <td>Villa, Breakfast, Island Tour</td>
+            <td><a class="btn btn--table" href="booking.html?dest=Bali&pkg=Premium">Choose</a></td>
+          </tr>
+          <tr>
+            <td>Disney Land, USA</td>
+            <td>4 Days</td>
+            <td>$1200</td>
+            <td>Hotel, Breakfast, Park Tickets</td>
+            <td><a class="btn btn--table" href="booking.html?dest=Disneyland&pkg=Premium">Choose</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="section container">
+    <h2 class="section__title">Travel Tips & Must‑Visit Spots</h2>
+    <div class="grid grid--3">
+      <article class="tip card">
+        <h3 class="card__title">Documents</h3>
+        <ul class="list">
+          <li>Keep passport + copies in separate bags.</li>
+          <li>Carry travel insurance details.</li>
+        </ul>
+      </article>
+      <article class="tip card">
+        <h3 class="card__title">Money & Safety</h3>
+        <ul class="list">
+          <li>Keep small local currency handy.</li>
+          <li>Use hotel safes for valuables.</li>
+        </ul>
+      </article>
+      <article class="tip card">
+        <h3 class="card__title">Must‑Visit</h3>
+        <ul class="list">
+          <li>Paris: Louvre, Eiffel Tower night view</li>
+          <li>Goa: Baga Beach, Fort Aguada</li>
+          <li>Bali: Ubud Rice Terraces</li>
+          <li>Disney Land: Castle and Park</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container footer__grid">
+      <p>© 2025 Dream Travel Agency</p>
+      <p class="social"><a href="#">Facebook</a><span>·</span><a href="#">Instagram</a><span>·</span><a href="#">Twitter</a></p>
+    </div>
+  </footer>
+  <script src="script.js" defer></script>
+</body>
+</html>

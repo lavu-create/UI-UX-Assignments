@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dream Travel — Gallery</title>
+  <link rel="stylesheet" href="style.css" />
+  <meta name="color-scheme" content="light dark" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="logo" href="index.html">DreamTravel</a>
+    <nav class="nav" aria-label="Primary">
+      <a class="nav-link" href="index.html">Home</a>
+      <a class="nav-link" href="packages.html">Packages</a>
+      <a class="nav-link" href="booking.html">Booking</a>
+      <a class="nav-link active" href="gallery.html" aria-current="page">Gallery</a>
+      <a class="nav-link" href="about.html">About Us</a>
+    </nav>
+  </header>
+
+  <section class="hero hero--sm" style="--hero:url('assets/gallery-hero.png')">
+    <div class="hero__overlay"></div>
+    <div class="hero__content container">
+      <h1 class="hero__title">Destination gallery</h1>
+      <p class="hero__subtitle">Get a feel of places you’ll soon visit.</p>
+    </div>
+  </section>
+
+  <section class="section container">
+    <h2 class="section__title">Top Picks</h2>
+    <div class="gallery">
+      <figure class="gallery__item">
+        <img loading="lazy" src="assets/paris.png" data-large="assets/paris.png" alt="Eiffel Tower in Paris at sunset" />
+        <figcaption>Romantic Paris</figcaption>
+      </figure>
+      <figure class="gallery__item">
+        <img loading="lazy" src="assets/goa.png" data-large="assets/goa.png" alt="Sunny beach in Goa with palms" />
+        <figcaption>Sunny Goa</figcaption>
+      </figure>
+      <figure class="gallery__item">
+        <img loading="lazy" src="assets/bali.png" data-large="assets/bali.png" alt="Lush rice terraces in Bali" />
+        <figcaption>Beautiful Bali</figcaption>
+      </figure>
+      <figure class="gallery__item">
+        <img loading="lazy" src="assets/disneyland.png" data-large="assets/disneyland.png" alt="Disneyland Castle and Park" />
+        <figcaption>Magical Disney Land</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container footer__grid">
+      <p>© 2025 Dream Travel Agency</p>
+      <p class="social"><a href="#">Facebook</a><span>·</span><a href="#">Instagram</a><span>·</span><a href="#">Twitter</a></p>
+    </div>
+  </footer>
+  <script src="script.js" defer></script>
+</body>
+</html>
