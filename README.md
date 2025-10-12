@@ -17,6 +17,7 @@
 ## 📝 Assignments
 
 ### Assignment 1
+Personal Portfolio Webpage Using HTML & CSS
 - **📂 Folder:** [Assignment-1](Assignment-1-Lavanya-102303425)  
 - **🖌️ Description:** Landing page design with responsive navigation and hero section.  
 - **🌐 Live Preview:** [Open Assignment-1](https://lavu-create.github.io/UI-UX-Assignments/Assignment-1-Lavanya-102303425/index.html)
