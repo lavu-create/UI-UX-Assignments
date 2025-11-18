@@ -1,7 +1,7 @@
 # 🎨 UI/UX Assignments
 
 **👩‍🎓 Student:** Lavanya (Roll no: 102303425)    
-**📚 Course:** UI/UX (3C3)    
+**📚 Course:** UI/UX (3C32)    
 **🗓️ Year/Semester:** 2025 / 5th Semester
 
 ---
